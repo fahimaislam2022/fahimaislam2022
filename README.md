@@ -1,79 +1,121 @@
-
-A few parts of that README are intentionally “interactive”: the typing banner, collapsible section, dynamic GitHub stats, trophies, and live profile counter. The project descriptions and profile facts were aligned to the public profile/repository page and linked portfolio/LinkedIn shown there. :contentReference[oaicite:1]{index=1}
-
-To publish it:
-
-1. Create a new repository named **`fahimaislam2022`**
-2. Make it **public**
-3. Add a file named **`README.md`**
-4. Paste the content above
-5. Commit it
-
-Here’s a more polished version with a stronger “interactive portfolio” feel:
-
-md
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Fahima Islam
+<h1 align="center">Hi, I'm Fahima Islam 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;C%23+Developer+%7C+ML+Enthusiast;R+Programmer+%7C+Web+Tech+Learner;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <b>Exploring software development, machine learning, NLP, computer vision, and data-driven problem solving.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/fahimaislam2022"><img src="https://img.shields.io/github/followers/fahimaislam2022?style=flat-square&logo=github&label=Followers" /></a>
-  <a href="https://github.com/fahimaislam2022?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-23-blue?style=flat-square&logo=github" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Dhaka-brightgreen?style=flat-square" />
+  <a href="https://github.com/fahimaislam2022?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-23-black?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20NLP%20%7C%20CV%20%7C%20Web%20Dev-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-C%23%20%7C%20R%20%7C%20PHP%20%7C%20C%2B%2B%20%7C%20Java-success?style=for-the-badge" />
 </p>
 
-## 👩‍💻 Who Am I?
+---
 
-I am **Fahima Islam**, a curious and motivated developer who enjoys building software projects, exploring machine learning, and improving technical skills through hands-on work.
+## 🚀 About Me
 
-### 🔍 My Interests
-- Desktop application development
-- Machine learning and data analysis
-- Computer vision and NLP
-- Web technologies and database systems
+I’m a curious and hands-on developer who uses GitHub as a space to build, practice, and grow across multiple areas of computer science and software engineering.
 
-## 🧰 Skills
+My repositories reflect a mix of:
 
-**Programming:**  
-`C#` `R` `Python` `PHP` `JavaScript` `C++` `Java`
+- **Machine Learning & Data Science**
+  - predictive modeling
+  - classification and regression
+  - feature-based learning
+  - model evaluation
+  - data preprocessing and exploratory analysis
 
-**Development Areas:**  
-`Windows Forms` `SQL Server` `ADO.NET` `HTML` `CSS` `DOM` `PHPMyAdmin`
+- **Natural Language Processing**
+  - text preprocessing
+  - tokenization, stemming, and lemmatization
+  - TF-IDF / vectorization workflows
+  - sentiment classification
+  - clustering and topic modeling
 
-**Learning Areas:**  
-`=Computer Vision` `Pattern Recognition` `Deep Learning` `Predictive Modeling`
+- **Computer Vision & Deep Learning**
+  - CNN-based image classification
+  - feature extraction
+  - regularization
+  - PyTorch-based model building
+  - medical image analysis
 
-## 🌟 Highlighted Work
+- **Full-Stack / Database-Driven Development**
+  - C# + MS SQL applications
+  - PHP-based validation and backend logic
+  - HTML, CSS, JavaScript, DOM manipulation
+  - phpMyAdmin and relational database work
 
-| Project | Area | Summary |
-|---|---|---|
-| CSharp | Desktop App | Super shop management system using C# and MS SQL |
-| Hotel-Management-System | Web App | Hotel management app with HTML, CSS, JS, PHP |
-| Automated-NLP-Pipeline-on-Amazon-Food-Reviews-R-NLP-Machine-Learning- | NLP/ML | R-based review analysis pipeline |
-| Mental-Health-Outcome-Prediction-from-Lifestyle-Data-R-Regression-Classification- | ML | Regression and classification project |
-| CNN-METASTATIC-TISSUE-CLASSIFICATION-PCAM | Deep Learning | CNN model for cancer tissue image classification |
+- **Core CS and Academic Practice**
+  - algorithms
+  - computer graphics
+  - assembly / microprocessor work
+  - computer organization
+  - digital logic
+  - database and system design
 
-## 📈 GitHub Dashboard
+I enjoy building projects that combine **logic, data, experimentation, and practical implementation**—from management systems to NLP pipelines, from web applications to deep learning models.
+
+---
+
+## 🧠 What My GitHub Shows About Me
+
+💡 I like learning by **building real projects**  
+📊 I work with both **structured data and unstructured text/image data**  
+🛠️ I explore both **software engineering** and **AI-focused development**  
+📚 I use GitHub as a journey of **continuous learning, experimentation, and improvement**
+
+---
+
+## 🔍 Areas I’m Working On
+
+- Machine Learning workflows
+- NLP pipelines and sentiment analysis
+- Computer Vision and CNN architectures
+- Data cleaning, preprocessing, and modeling
+- Web systems with frontend + backend integration
+- Database-connected application development
+
+---
+
+## ⚙️ Tech & Tools
+
+**Languages:**  
+`C#` `R` `PHP` `JavaScript` `C++` `Java` `Assembly`
+
+**Concepts & Methods:**  
+`Machine Learning` `NLP` `Computer Vision` `Classification` `Regression` `Topic Modeling` `Clustering` `Feature Extraction` `Model Training` `Data Analysis` `Database Design`
+
+**Tools & Platforms:**  
+`PyTorch` `MS SQL` `phpMyAdmin` `RStudio` `Jupyter Notebook` `Git` `GitHub`
+
+---
+
+## 🌱 Current Mindset
+
+I’m continuously improving my skills by working on projects that strengthen my understanding of:
+
+- intelligent systems
+- data-driven applications
+- full-stack development
+- real-world problem solving through code
+
+---
+
+## 📌 On This Profile
+
+Here you’ll find projects related to:
+
+✨ Machine Learning  
+✨ NLP  
+✨ Deep Learning  
+✨ Web Development  
+✨ Database Systems  
+✨ Academic and practical CS work
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimaislam2022&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaislam2022&layout=compact&theme=radical" height="165" />
+  <i>Thanks for visiting my profile — feel free to explore my repositories and follow my learning journey.</i>
 </p>
-
-## 🔗 Find Me Online
-
-- 🌐 Portfolio: https://sites.google.com/view/fahima-islam2000/home
-- 💼 LinkedIn: https://www.linkedin.com/in/fahima-islam-a375a7263
-
-## 🎯 Goal
-
-To grow as a software developer by combining academic learning with practical project development in software engineering, data science, and AI.
-
-<details>
-  <summary>More about me</summary>
-
-I like building projects that solve practical problems and help me deepen my understanding of programming, databases, and intelligent systems.
-
-</details>
