@@ -25,19 +25,35 @@
 
 ## ✨ About Me
 
-I’m a passionate **Computer Science student from AIUB** and an **aspiring Machine Learning Engineer** who loves transforming ideas into real, working systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Science+Student+from+AIUB;Aspiring+Machine+Learning+Engineer;Exploring+ML%2C+NLP%2C+Data+Science+%26+Web+Development;Turning+Ideas+into+Real%2C+Working+Systems" alt="Typing SVG" />
+</p>
 
-My GitHub isn’t just a place to store code — it’s a growing record of my journey through:
+<p align="center">
+  I’m a passionate <b>Computer Science student from AIUB</b> and an <b>aspiring Machine Learning Engineer</b><br>
+  who enjoys transforming ideas into practical, real-world projects.
+</p>
 
-- 🤖 Machine Learning & Deep Learning  
-- 🧠 Natural Language Processing  
-- 📊 Data Science & Analytics  
-- 🌐 Full-Stack Web Development  
-- ⚙️ Systems, Assembly & Graphics Programming  
+<p align="center">
+  My GitHub is more than just a place to store code — it’s a growing record of my learning journey,
+  experiments, and projects across multiple technical fields.
+</p>
 
-I enjoy building projects that are both **practical** and **educational**, with clean structure, thoughtful documentation, and reproducible workflows.
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-%F0%9F%A7%A0-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-%F0%9F%93%8A-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Development-%F0%9F%8C%90-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems%20%26%20Graphics-%E2%9A%99%EF%B8%8F-FF8C00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  I enjoy building projects that are both <b>practical</b> and <b>educational</b> — with clean structure,
+  thoughtful documentation, and reproducible workflows.
+</p>
 
 ---
+
 ## ⚙️ Languages & Tools
 
 <p align="center">
@@ -71,113 +87,113 @@ I enjoy building projects that are both **practical** and **educational**, with 
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
 </p>
----
-
 
 ---
+
 ## 🚀 What You’ll Find in My Repositories
 
-<details>
-<summary><b>🤖 Machine Learning & Deep Learning</b></summary>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+Deep+Learning;Natural+Language+Processing;Data+Science+%26+Analytics;Full-Stack+Web+Systems;Systems+%26+Graphics+Programming" alt="Typing SVG" />
+</p>
 
-- Convolutional Neural Networks (**CNNs**) for image recognition  
-- Random Forest models for **asteroid hazard detection**  
-- Regression and classification models for **mental health prediction**  
-- End-to-end notebooks covering:
-  - data cleaning
-  - feature engineering
-  - model training
-  - evaluation
-  - visualization
+<p align="center">
+  My repositories reflect my journey across <b>AI</b>, <b>software development</b>, <b>data science</b>, and <b>systems programming</b> —
+  blending academic learning with practical, hands-on projects.
+</p>
 
-</details>
+### 🤖 Machine Learning & Deep Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/CNNs-Image%20Recognition-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Random%20Forest-Asteroid%20Hazard%20Detection-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Regression%20%26%20Classification-Mental%20Health%20Prediction-FF69B4?style=for-the-badge" />
+</p>
 
-<details>
-<summary><b>🧠 Natural Language Processing</b></summary>
-<br>
+<p align="center">
+  End-to-end notebooks covering <b>data cleaning</b>, <b>feature engineering</b>, <b>model training</b>,
+  <b>evaluation</b>, and <b>visualization</b>.
+</p>
 
-- Automated NLP pipelines on **Amazon food reviews**
-- Built with **R**
-- Includes:
-  - sentiment analysis
-  - text preprocessing
-  - token handling
-  - feature extraction
-  - model evaluation
+### 🧠 Natural Language Processing
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon%20Food%20Reviews-NLP%20Pipeline-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/R-Sentiment%20Analysis-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text%20Preprocessing-Feature%20Extraction-20B2AA?style=for-the-badge" />
+</p>
 
-</details>
+<p align="center">
+  NLP experiments built with <b>R</b>, including <b>sentiment analysis</b>, <b>text preprocessing</b>,
+  <b>token handling</b>, <b>feature extraction</b>, and <b>model evaluation</b>.
+</p>
 
-<details>
-<summary><b>📊 Data Science & Analytics</b></summary>
-<br>
+### 📊 Data Science & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-Predictive%20Analytics-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python%20%26%20R-Reproducible%20Notebooks-32CD32?style=for-the-badge" />
+</p>
 
-- Exploratory Data Analysis (**EDA**)
-- Statistical modeling
-- Predictive analytics in **Python** and **R**
-- Reproducible notebooks with:
-  - clean visualizations
-  - structured pipelines
-  - interpretable results
+<p align="center">
+  Projects focused on <b>exploratory analysis</b>, <b>statistical reasoning</b>, and <b>predictive modeling</b>
+  with clean visualizations, structured pipelines, and interpretable results.
+</p>
 
-</details>
+### 🌐 Full-Stack Web Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Hotel%20Management-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20PHP-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Super%20Shop%20System-C%23%20%7C%20SQL%20Server-8B008B?style=for-the-badge" />
+</p>
 
-<details>
-<summary><b>🌐 Full-Stack Web Systems</b></summary>
-<br>
+<p align="center">
+  Hands-on full-stack projects featuring <b>session handling</b>, <b>responsive UI</b>, <b>CRUD operations</b>,
+  <b>form validation</b>, <b>database design</b>, <b>inventory logic</b>, and <b>user management</b>.
+</p>
 
-### Hotel Management System
-- HTML, CSS, JavaScript, PHP, MySQL
-- Features:
-  - session handling
-  - responsive UI
-  - CRUD operations
-  - form validation
+### ⚙️ Systems & Graphics Programming
+<p align="center">
+  <img src="https://img.shields.io/badge/EMU8086-Assembly%20Experiments-696969?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital%20Logic-Circuit%20Simulation-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Graphics%20%26%20Simulation-2E8B57?style=for-the-badge" />
+</p>
 
-### Super Shop Management System
-- C#, SQL Server
-- Focus areas:
-  - database design
-  - inventory logic
-  - user management
-  - efficient backend workflows
-
-</details>
-
-<details>
-<summary><b>⚙️ Systems & Graphics Programming</b></summary>
-<br>
-
-- Assembly language experiments with **EMU8086**
-- Digital logic and circuit simulations
-- Microprocessor lab work
-- C++ graphics and simulation projects
-
-</details>
+<p align="center">
+  Work in <b>assembly programming</b>, <b>digital logic</b>, <b>microprocessor labs</b>, and
+  <b>C++ graphics/simulation projects</b>.
+</p>
 
 ---
 
 ## 📝 How I Approach Projects
 
-I try to make every repository a **learning experience**, not just a finished submission.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Every+Project+is+a+Learning+Experience;From+Preprocessing+to+Deployment+Thinking;Clean+Code+Clear+Structure+Meaningful+Results" alt="Typing SVG" />
+</p>
 
-### 🔍 My workflow usually includes:
-- **Data preprocessing & feature engineering**  
-  Handling missing values, normalization, encoding, and feature creation
+<p align="center">
+  I try to make every repository a <b>learning experience</b>, not just a finished submission.
+</p>
 
-- **Model selection & evaluation**  
-  Comparing regression, classification, ensemble, and deep learning models using validation strategies
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Preprocessing%20%26%20Feature%20Engineering-Handling%20Missing%20Values%20%7C%20Encoding%20%7C%20Normalization-1E90FF?style=for-the-badge" />
+</p>
 
-- **Visualization & reporting**  
-  Using clear plots, confusion matrices, and explanations to make results understandable
+<p align="center">
+  <img src="https://img.shields.io/badge/Model%20Selection%20%26%20Evaluation-Regression%20%7C%20Classification%20%7C%20Ensembles%20%7C%20Deep%20Learning-8A2BE2?style=for-the-badge" />
+</p>
 
-- **Clean architecture**  
-  Writing modular functions, maintaining structured folders, and keeping code readable
+<p align="center">
+  <img src="https://img.shields.io/badge/Visualization%20%26%20Reporting-Plots%20%7C%20Confusion%20Matrices%20%7C%20Explanations-20B2AA?style=for-the-badge" />
+</p>
 
-- **Version control & collaboration**  
-  Using Git meaningfully to show progress from initial prototype to polished solution
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Modular%20Code%20%7C%20Readable%20Structure-FF8C00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version%20Control%20%26%20Collaboration-From%20Prototype%20to%20Polished%20Solution-FF69B4?style=for-the-badge" />
+</p>
 
 ---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -193,32 +209,43 @@ I try to make every repository a **learning experience**, not just a finished su
 
 ## 🌱 Currently Exploring
 
-- Advanced machine learning workflows  
-- NLP and text mining  
-- Real-world data pipeline design  
-- Better software architecture for academic and portfolio projects  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Advanced+Machine+Learning+Workflows;NLP+and+Text+Mining;Real-World+Data+Pipeline+Design;Better+Software+Architecture+for+Academic+and+Portfolio+Projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I’m currently exploring deeper ideas in <b>machine learning</b>, <b>NLP</b>, <b>data engineering</b>,
+  and <b>software architecture</b> to build more practical and scalable projects.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20Machine%20Learning-Workflows-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Text%20Mining-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-Real%20World%20Pipelines-20B2AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Architecture-Cleaner%20Project%20Design-FF8C00?style=for-the-badge" />
+</p>
 
 ---
 
 ## ☀️ Let’s Connect
 
-If you’re interested in:
-
-- machine learning experiments  
-- reproducible data science workflows  
-- full-stack academic or portfolio systems  
-- collaborative learning and building  
-
-then feel free to explore my repositories and connect with me.
-
 <p align="center">
-  <a href="https://github.com/fahimaislam2022">🔗 GitHub</a> •
-  <a href="http://www.linkedin.com/in/fahima-islam-a375a7263">💼 LinkedIn</a> •
-  <a href="https://sites.google.com/view/fahima-islam2000/home">🌐 Portfolio</a>
+  Interested in <b>machine learning experiments</b>, <b>reproducible data science workflows</b>,
+  <b>full-stack academic systems</b>, or <b>building and learning together</b>? Let’s connect.
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/fahimaislam2022">
+    <img src="https://img.shields.io/badge/GitHub-fahimaislam2022-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="http://www.linkedin.com/in/fahima-islam-a375a7263">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://sites.google.com/view/fahima-islam2000/home">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <p align="center">
-  <i>“Always learning, always building.”</i>
+  <i>✨ Always learning, always building.</i>
 </p>
