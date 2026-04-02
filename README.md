@@ -1,99 +1,64 @@
-<div align="center">
+<h1 align="center">Hi, I'm Fahima Islam 👋</h1>
+<p align="center">
+  <b>CS Student • ML Builder • NLP Explorer • Software Developer</b>
+</p>
 
-# Fahima Islam
+<p align="center">
+  Building clean, modular, and polished repositories focused on machine learning, NLP workflows, data-driven systems, and modern software projects.
+</p>
 
-### Machine Learning · NLP · Computer Vision · Web Systems · Databases
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=700&lines=Repo-based+projects+across+AI%2C+software+systems%2C+and+web+development;Building+with+R%2C+C%23%2C+PHP%2C+JavaScript%2C+C%2B%2B%2C+Java%2C+Assembly;Focused+on+NLP%2C+predictive+modeling%2C+CNNs%2C+SQL%2C+and+interactive+apps" />
-
-<br/>
-
-## Languages
-
-<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=c%23">
-  <img src="https://img.shields.io/badge/C%23-Projects-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-</a>
-<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=r">
-  <img src="https://img.shields.io/badge/R-Data%20Science-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</a>
-<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=php">
-  <img src="https://img.shields.io/badge/PHP-Web-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</a>
-<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=javascript">
-  <img src="https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</a>
-<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=c%2B%2B">
-  <img src="https://img.shields.io/badge/C%2B%2B-Core%20CS-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</a>
-<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=java">
-  <img src="https://img.shields.io/badge/Java-Practice-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</a>
-<a href="https://github.com/fahimaislam2022?tab=repositories">
-  <img src="https://img.shields.io/badge/Assembly-Low%20Level-6E4C13?style=for-the-badge" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Focus-Repo%20Based-black?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Projects-AI%20%7C%20Systems%20%7C%20Web-blue?style=for-the-badge" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/fahimaislam2022?tab=followers">
+    <img src="https://img.shields.io/github/followers/fahimaislam2022?label=Followers&style=for-the-badge" alt="followers" />
+  </a>
+  <a href="https://github.com/fahimaislam2022?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-23-181717?style=for-the-badge&logo=github" alt="repos" />
+  </a>
+  <a href="https://github.com/fahimaislam2022?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-2-f5c542?style=for-the-badge&logo=github" alt="stars" />
+  </a>
+  <a href="https://github.com/fahimaislam2022">
+    <img src="https://komarev.com/ghpvc/?username=fahimaislam2022&style=for-the-badge" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## About Me
+## About
 
-I build **repo-based projects** across **machine learning, NLP, computer vision, web development, and database systems**.
+A developer-first GitHub profile built for **interactive badges**, **README UI**, **icon-based navigation**, and premium **repo presentation**. Focused on **visual clarity**, **modular design**, **polished documentation**, and practical open-source usability across machine learning, NLP, web systems, and academic software projects.
 
-My work focuses on:
-- **predictive modeling**
-- **sentiment analysis**
-- **text preprocessing**
-- **classification & regression**
-- **clustering & topic modeling**
-- **CNN-based image classification**
-- **SQL-integrated systems**
-- **interactive web applications**
+## What I Build
 
----
-
-## Repo Highlights
-
-- **Machine Learning:** preprocessing, EDA, classification, regression  
-- **NLP:** tokenization, stemming, lemmatization, TF-IDF, sentiment analysis  
-- **Computer Vision:** CNNs, medical imaging, augmentation, model training  
-- **Web Systems:** HTML, CSS, JavaScript, PHP, validation, backend logic  
-- **Software & Databases:** C#, SQL Server, CRUD, role-based systems  
-- **Core CS:** algorithms, graphics, assembly, computer organization  
-
----
+- 🤖 Machine learning and deep learning projects
+- 🧠 NLP pipelines and text analytics workflows
+- 🌐 Web-based management systems
+- 📊 Data analysis and predictive modeling
+- ⚙️ Structured academic and systems programming projects
 
 ## Tech Stack
 
-**Languages**  
-`C#` `R` `PHP` `JavaScript` `C++` `Java` `Assembly`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,cs,js,html,css,mysql,r" />
+</p>
 
-**Tools & Platforms**  
-`PyTorch` `Jupyter Notebook` `SQL Server` `phpMyAdmin` `Git` `GitHub`
+## Navigation
 
-**Methods**  
-`Classification` `Regression` `TF-IDF` `Clustering` `Topic Modeling` `CNN` `EDA` `Feature Extraction`
+<p>
+  <a href="https://github.com/fahimaislam2022?tab=repositories">📦 Repositories</a> •
+  <a href="https://github.com/fahimaislam2022?tab=stars">⭐ Starred</a> •
+  <a href="https://www.linkedin.com/in/fahima-islam-a375a7263">💼 LinkedIn</a> •
+  <a href="https://sites.google.com/view/fahima-islam2000/home">🌐 Portfolio</a>
+</p>
 
----
+## Profile Highlights
 
-## Featured Repositories
+- ✨ Clean repo presentation with polished README structure
+- 🧩 Modular project organization and readable layouts
+- 🏷️ Badge-based interaction for quick scanning
+- 🧭 Icon-based UX for faster navigation
+- 📘 Premium documentation style with developer-friendly clarity
 
-- **C# / SQL Server Systems** — desktop apps, authentication, CRUD, database integration  
-- **R NLP Projects** — text mining, sentiment analysis, topic modeling, vectorization  
-- **Predictive Modeling Projects** — regression, classification, feature-based analysis  
-- **Web Projects** — HTML, CSS, JavaScript, PHP, database-connected workflows  
-- **CNN Projects** — image classification, medical imaging, notebook-based experiments  
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimaislam2022&show_icons=true&hide_border=true)](https://github.com/fahimaislam2022)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaislam2022&layout=compact&hide_border=true)](https://github.com/fahimaislam2022?tab=repositories)
-
-</div>
+<p align="center">
+  <i>Modern developer tools. Premium design. Polished documentation.</i>
+</p>
