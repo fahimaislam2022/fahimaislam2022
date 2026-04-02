@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Web%20Development-%F0%9F%8C%90-FF69B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Systems%20%26%20Graphics-%E2%9A%99%EF%B8%8F-FF8C00?style=for-the-badge" />
 </p>
+
 ---
 
 ## ⚙️ Languages & Tools
@@ -63,6 +64,7 @@
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
 </p>
+
 ---
 
 ## 🚀 What You’ll Find in My Repositories
@@ -102,6 +104,7 @@
   <img src="https://img.shields.io/badge/Digital%20Logic-Circuit%20Simulation-FF4500?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%2B%2B-Graphics%20%26%20Simulation-2E8B57?style=for-the-badge" />
 </p>
+
 ---
 <p align="center">
   <i>✨ Always learning, always building.</i>
