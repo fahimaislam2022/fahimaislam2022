@@ -35,9 +35,7 @@
 
 
 ## ⚙️ Languages & Tools
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=680&lines=Programming+Languages;Web+Development;Databases+%26+Analytics;Design+%26+Development+Tools" alt="Typing SVG" />
-</p>
+
 <p align="center">
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
@@ -68,9 +66,7 @@
 
 
 ## 🚀 What You’ll Find in My Repositories
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+Deep+Learning;Natural+Language+Processing;Data+Science+%26+Analytics;Full-Stack+Web+Systems;Systems+%26+Graphics+Programming" alt="Typing SVG" />
-</p>
+
 <p align="center">
   My repositories reflect my journey across <b>AI</b>, <b>software development</b>, <b>data science</b>, and <b>systems programming</b> —
   blending academic learning with practical, hands-on projects.
