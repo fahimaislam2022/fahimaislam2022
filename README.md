@@ -73,11 +73,6 @@ I enjoy building projects that are both **practical** and **educational**, with 
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,cs,js,html,css,mysql,r,cpp" alt="Tech stack icons" />
-</p>
 
 ---
 ## 🚀 What You’ll Find in My Repositories
