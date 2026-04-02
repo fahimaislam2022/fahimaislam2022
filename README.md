@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu Alaikum, I’m Fahima Islam 👋</h1>
 <h3 align="center">CS Student • Aspiring ML Engineer • Turning Ideas into Code</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;NLP+%26+Data+Science+Learner;Full-Stack+Project+Builder;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;NLP+%26+Data+Science+LearnerComputer+Science+Student+from+AIUB;Aspiring+Machine+Learning+Engineer;Exploring+ML%2C+NLP%2C+Data+Science+%26+Web+Development;Turning+Ideas+into+Real%2C+Working+Systems;Full-Stack+Project+Builder;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://github.com/fahimaislam2022">
@@ -17,9 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahimaislam2022&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Science+Student+from+AIUB;Aspiring+Machine+Learning+Engineer;Exploring+ML%2C+NLP%2C+Data+Science+%26+Web+Development;Turning+Ideas+into+Real%2C+Working+Systems" alt="Typing SVG" />
-</p>
+
 <p align="center">
   I’m a passionate <b>Computer Science student from AIUB</b> and an <b>aspiring Machine Learning Engineer</b><br>
   who enjoys transforming ideas into practical, real-world projects.My GitHub is more than just a place to store code it’s a growing record of my learning journey,
@@ -34,6 +32,7 @@
   <img src="https://img.shields.io/badge/Systems%20%26%20Graphics-%E2%9A%99%EF%B8%8F-FF8C00?style=for-the-badge" />
 </p>
 ---
+
 ## ⚙️ Languages & Tools
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=680&lines=Programming+Languages;Web+Development;Databases+%26+Analytics;Design+%26+Development+Tools" alt="Typing SVG" />
@@ -65,6 +64,7 @@
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
 </p>
 ---
+
 ## 🚀 What You’ll Find in My Repositories
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+Deep+Learning;Natural+Language+Processing;Data+Science+%26+Analytics;Full-Stack+Web+Systems;Systems+%26+Graphics+Programming" alt="Typing SVG" />
