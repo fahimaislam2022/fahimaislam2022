@@ -16,10 +16,17 @@
 </p>
 
 <p align="center">
-  I’m a passionate <b>Computer Science student from AIUB</b> and an <b>aspiring Machine Learning Engineer</b><br>
-  who enjoys transforming ideas into practical, real-world projects.My GitHub is more than just a place to store code it’s a growing record of my learning journey,
-  experiments, and projects across multiple technical fields.I enjoy building projects that are both <b>practical</b> and <b>educational</b>  with clean structure,
-  thoughtful documentation, and reproducible workflows.
+  <img src="https://komarev.com/ghpvc/?username=fahimaislam2022&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile view counter" />
+</p>
+
+<p align="center">
+- Passionate **Computer Science student at AIUB**
+- **Aspiring Machine Learning Engineer**
+- Enjoy turning ideas into **practical, real-world projects**
+- GitHub is more than just a place to store code  it reflects a **growing learning journey**
+- Share **experiments and projects** across multiple technical fields
+- Build projects that are both **practical** and **educational**
+- Value **clean structure**, **thoughtful documentation**, and **reproducible workflows**
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge" alt="Machine Learning" />
@@ -75,22 +82,47 @@
 </p>
 
 
-## ⚙️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
+  <b>Programming Languages</b>
+</p>
+
+<p align="center">
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" alt="R" /></a>
+</p>
+
+<p align="center">
+  <b>Frontend, Mobile & Web Technologies</b>
+</p>
+
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" alt="R" /></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
 </p>
+
+<p align="center">
+  <b>Backend, Databases & Tools</b>
+</p>
+
+<p align="center">
+  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
@@ -103,7 +135,6 @@
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
 </p>
-
 
 <p align="center">
   <i>✨ Always learning, always building.</i>
