@@ -28,12 +28,8 @@
 </p>
 
 
-## What You’ll Find in My Repositories
+## My Repositories
 
-<p align="center">
-  My repositories reflect my journey across <b>AI</b>, <b>software development</b>, <b>data science</b>, and <b>systems programming</b> 
-  blending academic learning with practical, hands-on projects.
-</p>
 
 ### Machine Learning & Deep Learning
 <p align="center">
