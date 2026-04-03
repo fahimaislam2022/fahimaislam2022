@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;NLP+%26+Data+Science+Learner;Computer+Science+Student+from+AIUB;Aspiring+Machine+Learning+Engineer;Full-Stack+Project+Builder;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahimaislam2022&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile view counter" />
+</p>
+
+<p align="center">
   <a href="https://github.com/fahimaislam2022">
     <img src="https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -14,9 +18,13 @@
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
+</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahimaislam2022&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile view counter" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-8A2BE2?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Web%20Development-FF69B4?style=for-the-badge" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Systems%20%26%20Graphics-FF8C00?style=for-the-badge" alt="Systems and Graphics" />
 </p>
 
 <p align="center">
@@ -33,14 +41,7 @@
   
 - Value **clean structure**, **thoughtful documentation**, and **reproducible workflows**
   
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-8A2BE2?style=for-the-badge" alt="NLP" />
-  <img src="https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Web%20Development-FF69B4?style=for-the-badge" alt="Web Development" />
-  <img src="https://img.shields.io/badge/Systems%20%26%20Graphics-FF8C00?style=for-the-badge" alt="Systems and Graphics" />
-</p>
+
 
 
 
