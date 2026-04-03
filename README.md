@@ -20,13 +20,19 @@
 </p>
 
 <p align="center">
+
 - Passionate **Computer Science student at AIUB**
 - **Aspiring Machine Learning Engineer**
 - Enjoy turning ideas into **practical, real-world projects**
+  
 - GitHub is more than just a place to store code  it reflects a **growing learning journey**
-- Share **experiments and projects** across multiple technical fields
+  
+- Share **experiments and projects** across multiple technical field
+  
 - Build projects that are both **practical** and **educational**
+  
 - Value **clean structure**, **thoughtful documentation**, and **reproducible workflows**
+  
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge" alt="Machine Learning" />
