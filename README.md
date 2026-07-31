@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=fahimaislam2022&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile view counter" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/fahimaislam2022">
     <img src="https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -23,7 +23,7 @@
   <a href="https://sites.google.com/view/fahima-islam2000/home">
     <img src="https://img.shields.io/badge/Academic%20Site-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Academic site" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-DC143C?style=for-the-badge" alt="Machine Learning" />
