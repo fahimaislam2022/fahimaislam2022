@@ -1,6 +1,6 @@
-<h1 align="center">Assalamu Alaikum, Iâ€™m Fahima Islam ðŸ‘‹</h1>
+<h1 align="center">Assalamu Alaikum, I’m Fahima Islam 👋</h1>
 
-<h3 align="center">CSE @ AIUB '26 â€¢ Aspiring Machine Learning Engineer â€¢ Medical AI Researcher</h3>
+<h3 align="center">CSE @ AIUB '26 • Aspiring Machine Learning Engineer • Medical AI Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Machine+Learning+%26+Deep+Learning;Medical+AI+%26+Computer+Vision;Multimodal+ECG-PCG+Analysis;NLP+%26+Data+Science;Full-Stack+Project+Builder;Always+Learning+Something+New" alt="Typing introduction" />
@@ -33,13 +33,6 @@
   <img src="https://img.shields.io/badge/Data%20Science-FF8C00?style=for-the-badge" alt="Data Science" />
 </p>
 
-## About Me
-
-- Final-year B.Sc. student in Computer Science and Engineering at American International University-Bangladesh.
-- Building machine-learning and deep-learning systems for medical imaging, biosignals, computer vision, NLP, and predictive analytics.
-- Interested in lightweight, explainable, reliable, and clinically relevant AI.
-- Also experienced in full-stack web development, desktop applications, databases, systems programming, and graphics.
-
 ## Featured Medical AI & Computer Vision Repositories
 
 | Project | Repository details | Main stack |
@@ -49,7 +42,7 @@
 | [Brain Tumor MRI Model Benchmark](https://github.com/fahimaislam2022/ResNet50-VGG16-MobileNetV2-EfficientNetB0-Brain-Tumor-MRI-Image-preprocessing) | Brain-MRI preprocessing and comparison of ResNet50, VGG16, EfficientNet-B0, and MobileNetV2-based models with explainability analysis. | PyTorch, transfer learning, Grad-CAM |
 | [Region-Aware Multi-task Pathological Myopia](https://github.com/fahimaislam2022/Region-Aware-Multi-task-Pathological-Myopia) | RETFound-based, region-aware multi-task architecture notebook for pathological-myopia analysis from retinal images. | Python, RETFound, vision transformers |
 | [Lightweight Dual-Modal ECG-PCG](https://github.com/fahimaislam2022/Lightweight-Dual-Modal-ECG-PCG) | PACFNet-style dual-branch cardiac classification with ECG/PCG filtering, beat segmentation, feature fusion, calibration, and model variants on PhysioNet 2016. | TensorFlow, Keras, WFDB, biosppy |
-| [CNN Metastatic Tissue Classification â€” PCam](https://github.com/fahimaislam2022/CNN-METASTATIC-TISSUE-CLASSIFICATION-PCAM) | Custom four-block CNN for binary metastatic-tissue detection from PatchCamelyon histopathology patches. | PyTorch, CNN, HDF5 |
+| [CNN Metastatic Tissue Classification — PCam](https://github.com/fahimaislam2022/CNN-METASTATIC-TISSUE-CLASSIFICATION-PCAM) | Custom four-block CNN for binary metastatic-tissue detection from PatchCamelyon histopathology patches. | PyTorch, CNN, HDF5 |
 | [Computer Vision and Pattern Recognition](https://github.com/fahimaislam2022/Computer-Vision-and-Pattern-Recognition) | Foundational computer-vision and pattern-recognition implementations and exercises. | Python, computer vision |
 
 ## Machine Learning, Data Science & NLP Repositories
@@ -69,7 +62,7 @@
 | Project | Repository details | Main stack |
 |---|---|---|
 | [Hotel Management System](https://github.com/fahimaislam2022/Hotel-Management-System) | Full hotel admin system for rooms, bookings, housekeeping, customers, invoices, feedback, and account management. | HTML, CSS, JavaScript, PHP, MySQL |
-| [Web Technology 2025â€“2026](https://github.com/fahimaislam2022/Web-Tech-25-26) | Web-technology coursework and project source, including an administrative interface and responsive page styling. | HTML, CSS, JavaScript, PHP |
+| [Web Technology 2025–2026](https://github.com/fahimaislam2022/Web-Tech-25-26) | Web-technology coursework and project source, including an administrative interface and responsive page styling. | HTML, CSS, JavaScript, PHP |
 | [BuyNix Supermarket Management System](https://github.com/fahimaislam2022/CSharp) | Role-based desktop supermarket system with authentication, inventory CRUD, categories, and SQL Server integration. | C#, Windows Forms, SQL Server |
 | [Personal Portfolio Website](https://github.com/fahimaislam2022/fahimaislam2022.github.io) | GitHub Pages portfolio presenting skills, research interests, and project work. | HTML, CSS, JavaScript, GitHub Pages |
 | [ELITE Car App](https://github.com/fahimaislam2022/Elite-Car-App) | Concept, report, and presentation materials for the ELITE car-application project. | Product design, documentation, presentation |
@@ -87,7 +80,7 @@
 | [Digital Logic and Circuit](https://github.com/fahimaislam2022/Digital-Logic-and-Circuit) | Digital-logic project report, presentation, and laboratory documentation. | Digital logic, circuit design |
 | [Computer-Aided Design](https://github.com/fahimaislam2022/Computer-Aided-Design) | Engineering drawings and design exercises in DWG format. | AutoCAD |
 | [Electric Device](https://github.com/fahimaislam2022/Electric-Device-) | Electric-device design presentation and visual project materials. | Electrical design, presentation |
-| [Futurecode â€” DeepSpark](https://github.com/fahimaislam2022/Futurecode) | DeepSpark project concept and pitch presentation. | Product ideation, presentation |
+| [Futurecode — DeepSpark](https://github.com/fahimaislam2022/Futurecode) | DeepSpark project concept and pitch presentation. | Product ideation, presentation |
 | [Academic Posters](https://github.com/fahimaislam2022/Posters) | Academic poster collection, including physics and Starlink-related work. | Research communication, poster design |
 
 ## Languages & Tools
@@ -155,5 +148,5 @@
 </p>
 
 <p align="center">
-  <i>âœ¨ Always learning, always building.</i>
+  <i>✨ Always learning, always building.</i>
 </p>
