@@ -85,9 +85,9 @@
 
 ## Languages & Tools
 
-<p align="center"><b>Programming Languages</b></p>
+<p><b>Programming Languages</b></p>
 
-<p align="center">
+<p>
   <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
@@ -98,9 +98,9 @@
   <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" alt="R" /></a>
 </p>
 
-<p align="center"><b>AI, Machine Learning & Data</b></p>
+<p><b>AI, Machine Learning & Data</b></p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
@@ -112,9 +112,9 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </p>
 
-<p align="center"><b>Frontend, Backend & Databases</b></p>
+<p><b>Frontend, Backend & Databases</b></p>
 
-<p align="center">
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
@@ -125,9 +125,9 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
-<p align="center"><b>Development & Engineering Tools</b></p>
+<p><b>Development & Engineering Tools</b></p>
 
-<p align="center">
+<p>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
@@ -140,12 +140,6 @@
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
 </p>
 
-## GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahimaislam2022&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Fahima's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaislam2022&layout=compact&theme=radical&hide_border=true" alt="Most-used languages" />
-</p>
 
 <p align="center">
   <i>✨ Always learning, always building.</i>
