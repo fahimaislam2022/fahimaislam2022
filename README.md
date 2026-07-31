@@ -1,6 +1,6 @@
 <h1 align="center">Assalamu Alaikum, I’m Fahima Islam 👋</h1>
 
-<h3 align="center">CSE @ AIUB '26 • Aspiring Machine Learning Engineer • Medical AI Researcher</h3>
+<h3 align="center">Aspiring Machine Learning Engineer • Medical AI Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Machine+Learning+%26+Deep+Learning;Medical+AI+%26+Computer+Vision;Multimodal+ECG-PCG+Analysis;NLP+%26+Data+Science;Full-Stack+Project+Builder;Always+Learning+Something+New" alt="Typing introduction" />
