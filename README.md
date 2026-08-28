@@ -26,10 +26,11 @@ My work focuses on **medical artificial intelligence, computer vision, multimoda
 | Status | Research work | Details |
 |---|---|---|
 | **Accepted** | **The Follicle Count Paradox: Measuring Diagnostic Leakage in AI-Driven PCOS Prediction** | Paper #838, accepted for presentation at the **4th International Conference on Computing Advancements (ICCA 2026)**. |
+| **Presented** | **Enhancing Student Engagement Using Generative AI Tools in Online Learning Environments** | Presented at the **6th International Conference on Educational Technology and Online Learning (ICETOL 2026)**, held 17-20 August 2026 in Bremen, Germany. |
 | **Conference presentation** | **Improved Deep PACFNet: Multimodal Deep Learning for Cardiac Anomaly Detection Using Synchronized ECG-PCG Signals** | Co-authored paper successfully presented at the **5th IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON 2026)**, held 13-14 August 2026 at BAUET, Natore, Bangladesh. |
 | **Undergraduate thesis** | **LiteTC-PolypNet++** | Research on lightweight, semi-supervised, boundary-aware, and temporally consistent medical-image segmentation. |
 
-> Conference acceptance and presentation are reported separately from publication status. Publication or IEEE Xplore indexing will be added only after official confirmation.
+> Conference acceptance and presentation records are reported separately from publication status. Publication or IEEE Xplore indexing will be added only after official confirmation.
 
 ## Selected Research Projects
 
