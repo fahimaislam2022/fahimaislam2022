@@ -19,7 +19,7 @@ My work focuses on **medical artificial intelligence, computer vision, multimoda
 
 - **Research interests:** medical-image segmentation and classification, ECG-PCG learning, multimodal AI, explainable AI, and efficient deep learning
 - **B.Sc. thesis:** **LiteTC-PolypNet++**, a semi-supervised, boundary-refined, and temporal-consistency-guided lightweight framework for real-time polyp segmentation
-- **Current goal:** research collaboration and graduate opportunities in  VLM , LLM , AI/ML & MEDICAL IMAGE PROCESSING
+- **Current goal:** research collaborations and graduate opportunities in vision-language models (VLMs), large language models (LLMs), artificial intelligence and machine learning (AI/ML), and medical image processing
 
 ## Research & Conference Highlights
 
