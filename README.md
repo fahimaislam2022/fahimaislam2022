@@ -13,12 +13,12 @@
 
 ## About Me
 
-I am a final-year B.Sc. student in Computer Science and Engineering at the American International University-Bangladesh (AIUB), with a CGPA of **3.94/4.00** and expected graduation in **September 2026**.
+I am a final-year B.Sc. student in Computer Science and Engineering at the American International University-Bangladesh (AIUB), with a CGPA of **3.95/4.00** and expected graduation in **September 2026**.
 
 My work focuses on **medical artificial intelligence, computer vision, multimodal biosignal analysis, and trustworthy machine learning**. I am particularly interested in building efficient and interpretable systems while carefully addressing dataset leakage, patient-level evaluation, uncertainty, and clinical limitations.
 
 - **Research interests:** medical-image segmentation and classification, ECG-PCG learning, multimodal AI, explainable AI, and efficient deep learning
-- **B.Sc. thesis:** **LiteTC-PolypNet++**, a semi-supervised, boundary-refined, and temporal-consistency-guided lightweight framework for real-time polyp segmentation
+- **B.Sc. thesis:** **LiteTC-PolypNet++**, a semi-supervised, boundary-refined, and temporal-consistency-guided lightweight framework for real-time polyp segmentatio
 - **Current goal:** research collaborations and graduate opportunities in vision-language models (VLMs), large language models (LLMs), artificial intelligence and machine learning (AI/ML), and medical image processing
 
 ## Research & Conference Highlights
